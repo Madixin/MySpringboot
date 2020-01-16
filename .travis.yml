@@ -1,0 +1,4 @@
+language: java
+
+script:
+ - mvn -B package --file pom.xml
